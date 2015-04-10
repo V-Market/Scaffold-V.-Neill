@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Koala" id="0" name="TodoControllerSpec" package="collab.todo" tests="1" time="10.597" timestamp="2015-04-10T02:57:10">
+      <properties />
+
+      <testcase classname="collab.todo.TodoControllerSpec" name="testSomething" time="10.5" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
